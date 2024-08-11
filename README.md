@@ -1,4 +1,4 @@
-Naive Bayes Classifier
+# Naive Bayes Classifier
 
 This repository contains a Jupyter Notebook demonstrating the implementation of a Naive Bayes classifier. The notebook walks through the process of loading a dataset, splitting it into training and test sets, training the model, and evaluating its performance.
 
